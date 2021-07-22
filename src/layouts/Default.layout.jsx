@@ -1,9 +1,8 @@
-  
 import React from "react";
 
 // Components
 import Navbar from "../components/Navbar/navbar.component";
-import HeroCarousal from "../components/HeroCarousal/HeroCarousal.component";
+import HeroCarousal from "../components/HeroCarousal/HeroCarousal.components";
 
 const DefaultLayout = (props) => {
   return (
